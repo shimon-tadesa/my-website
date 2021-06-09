@@ -81,7 +81,7 @@ img {
 }
 
 .home__img img {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
   display: block;
   border-radius: 100%;
